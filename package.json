@@ -1,6 +1,6 @@
 {
   "name": "sort-order-by",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Sort and order by value",
   "main": "index.js",
   "author": "",
