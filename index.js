@@ -1,5 +1,5 @@
 /*!
- * group-array <https://github.com/domovoj/group-array-key>
+ * sort-order-by <https://github.com/domovoj/sort-order-by
  *
  * Copyright (c) 2017, Yura Levantovych.
  * Licensed under the MIT License.

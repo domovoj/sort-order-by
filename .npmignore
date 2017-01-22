@@ -1,0 +1,8 @@
+.idea
+.DS_Store
+.babelrc
+.eslintrc
+test
+sortOrderBy.browser.js
+sortOrderBy.es2015.js
+webpack.config.js
