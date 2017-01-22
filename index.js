@@ -7,6 +7,6 @@
 
 'use strict';
 
-var sortOrderBy = require('./sortOrderBy.common');
+var sortOrderBy = require('./sortOrderBy.commonjs');
 
 module.exports = sortOrderBy;
